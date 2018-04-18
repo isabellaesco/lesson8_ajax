@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 18, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Isabella Escobar)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I used jQuery and AJAX codes to create an applicateion that tells you information on different movies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://isabellaesco.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that API is an application programming interface that is used tp access the web.)
+2. (I learned that AJAX is used to load data.)
+3. (I learned that JSON is used to interchange data.)
